@@ -1,0 +1,9 @@
+networkx==2.6.3
+torch==1.13.0
+torch-geometric==2.3.0
+web3==6.9.0
+pyevmasm==0.2.3
+transformers==4.25.1
+pandas==2.1.4
+numpy==1.24.0
+matplotlib
