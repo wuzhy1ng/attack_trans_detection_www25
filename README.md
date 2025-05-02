@@ -1,5 +1,7 @@
 This is a basic implementation of `Hunting in the Dark Forest: A Pre-trained Model for On-chain Attack Transaction Detection in Web3`.
 
+⚠️ Note that this code repo. aims to product a pretrain model, if you wanna get an transaction embedding or detection workflow, please download from [xblock.pro](https://xblock.pro/#/download/QmYA8chMpBx34D998ZzXbyUyu2G6joskprFhRN4mSiHCKK) (👈please click this link)
+
 # installation
 Please run the following command in your console:
 ```shell
